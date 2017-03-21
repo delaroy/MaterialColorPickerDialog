@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="clicked_gray">#80e0e0e0</drawable>
+    <drawable name="transparent">#00000000</drawable>
+    <string name="app_name">Material Color Picker</string>
+    <string name="white">White</string>
+</resources>
